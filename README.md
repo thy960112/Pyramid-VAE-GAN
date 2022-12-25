@@ -1,7 +1,3 @@
----
-Date created: 2022.12.25 20:20:00
-Date modified: 2022.12.25 23:22:35
----
 
 # **[Pyramid-VAE-GAN](https://github.com/thy960112/Pyramid-VAE-GAN)**
 
