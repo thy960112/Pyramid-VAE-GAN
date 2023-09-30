@@ -3,7 +3,7 @@
 
 ![Graphical_Abstract.jpg](https://github.com/thy960112/Pyramid-VAE-GAN/blob/main/figures/Graphical_Abstract.jpg)
 
-**Pyramid-VAE-GAN: Transferring Hierarchical Latent Variables for Image Inpainting**
+**[Pyramid-VAE-GAN: Transferring Hierarchical Latent Variables for Image Inpainting](https://link.springer.com/article/10.1007/s41095-022-0331-3)**
 
 Huiyuan Tian, Li Zhang, Shijian Li, Min Yao and Gang Pan
 
@@ -64,3 +64,16 @@ python eval.py --real_dir [ground truths] --fake_dir [inpainting results] --metr
 
 1. Download the pretrained models named `pvg_celebahq_celebahq_square256` for [CELEBA-HQ](https://pan.baidu.com/s/1g2uI1fY7w5s-EqR5NLACew?pwd=emc3) and put it under `release_model/`
 2. [DTD](https://pan.baidu.com/s/1tyZUSZEejM425XtzLdpxxg?pwd=786p) and [Facade](https://pan.baidu.com/s/1t__JM61XaPRjB4mmHXgDGA?pwd=af4h) are similar.
+
+## Citation
+If this work is helpful for your research, please consider citing the following BibTeX entry.
+```
+@article{tian2023pyramid,
+  title={Pyramid-VAE-GAN: Transferring hierarchical latent variables for image inpainting},
+  author={Tian, Huiyuan and Zhang, Li and Li, Shijian and Yao, Min and Pan, Gang},
+  journal={Computational Visual Media},
+  pages={1--15},
+  year={2023},
+  publisher={Springer}
+}
+ ```
