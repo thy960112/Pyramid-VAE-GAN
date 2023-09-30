@@ -1,5 +1,5 @@
 
-# **[Pyramid-VAE-GAN](https://github.com/thy960112/Pyramid-VAE-GAN)**
+# **[Pyramid-VAE-GAN](https://link.springer.com/article/10.1007/s41095-022-0331-3)**
 
 ![Graphical_Abstract.jpg](https://github.com/thy960112/Pyramid-VAE-GAN/blob/main/figures/Graphical_Abstract.jpg)
 
